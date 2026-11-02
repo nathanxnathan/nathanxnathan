@@ -70,8 +70,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=triggeredxhub&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=triggeredxhub&layout=compact&theme=tokyonight&hide=dockerfile" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nathanxnathan&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanxnathan&layout=compact&theme=tokyonight&hide=dockerfile" height="160"/>
 </div>
 
 > 📝 Most of my code is in **JavaScript** and **Dart**, but resides in private repos.
