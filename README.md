@@ -70,8 +70,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nathanxnathan&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanxnathan&layout=compact&theme=tokyonight&hide=dockerfile" height="160"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nathanxnathan&theme=github-compact&hide_border=true"
+    width="100%"
+  />
 </div>
 
 > 📝 Most of my code is in **JavaScript** and **Dart**, but resides in private repos.
